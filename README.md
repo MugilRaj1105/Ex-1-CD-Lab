@@ -12,7 +12,7 @@
 8.	Stop the program.
 
 # PROGRAM
-program
+```
 
 #include<stdio.h>                                                                                                                                                                          
 #include <ctype.h>                                                                                                                                                                          
@@ -84,6 +84,7 @@ int main() {
 
     return 0;
 }
+```
 # OUTPUT
 ![Screenshot 2024-10-08 142706](https://github.com/user-attachments/assets/358414e1-bfad-445c-b3c9-235c72b1e9e3)
 
