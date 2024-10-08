@@ -12,17 +12,11 @@
 8.	Stop the program.
 
 # PROGRAM
-
 #include<stdio.h>
-
 #include <ctype.h>
-
 #include <string.h>
-
 #include <stdlib.h>
-
 #define MAX_EXPRESSION_SIZE 100
-
 #define MAX_SYMBOLS 50  // Define a limit for the number of symbols
 
 int main() {
